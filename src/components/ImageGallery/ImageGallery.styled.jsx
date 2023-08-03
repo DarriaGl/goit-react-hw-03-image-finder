@@ -8,6 +8,7 @@ export const ImageGalleryUl = styled.ul`
   margin-top: 0;
   margin-bottom: 0;
   padding: 0;
+  background-color: #f9ebc7;
   padding-top: 70px;
   list-style: none;
   margin-left: auto;
